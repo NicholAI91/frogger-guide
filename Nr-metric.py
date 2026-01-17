@@ -1,6 +1,6 @@
 
 ---
-
+ℕʳ
 #### nr_metric.py
 
 ```python
